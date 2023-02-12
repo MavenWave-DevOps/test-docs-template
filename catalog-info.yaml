@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-docs-template
+  annotations:
+    github.com/project-slug: MavenWave-DevOps/test-docs-template
+spec:
+  type: other
+  lifecycle: unknown
+  owner: px-team
